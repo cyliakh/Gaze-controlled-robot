@@ -36,6 +36,8 @@ Also, check the documentation: https://docs.opencv.org/4.x/d9/df8/tutorial_root.
 
 Python Object Oriented Programming course: https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
 
+Face detection dlib : https://www.youtube.com/watch?v=SIZNf_Ydplg
+
 PySerial tutos: https://www.youtube.com/watch?v=kx4FoOAHG4U&list=PLxob-QD2IjXilpTWXe7eJCI-G-cUbtepE
 
 Python and Arduino communication : https://www.youtube.com/watch?v=OleCp_TAXC8
