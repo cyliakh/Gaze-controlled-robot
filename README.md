@@ -8,7 +8,7 @@ This project is split on two parts:
       
       2- The actual robot to be controlled.
 
-  The keyboard is different depending on the actual robot. In this example, we got a robot arm of 4 DOF. So, the keyboard is divided into two main parts: choosing an angle at which the servo motors will rotate, and the second part is about choosing which servo motor out of all the 4 motors to control.
+  The keyboard is different depending on the actual robot. If it is a robot arm, the keyboard is divided into two main parts: choosing an angle at which the servo motors of the arm will rotate, and the second part is about choosing which servo motor out of all the motors to control.
   In case of a car instead of robot arm, angles would be replaced by the speed and direction.  
   _ _ _ 
 
@@ -33,6 +33,16 @@ Required libraries:
 If you have never worked with OpenCV before, get started with simple Color detection: https://www.youtube.com/watch?v=aFNDh5k3SjU
 
 Also, check the documentation: https://docs.opencv.org/4.x/d9/df8/tutorial_root.html
+
+Python Object Oriented Programming course: https://www.youtube.com/watch?v=ZDa-Z5JzLYM&list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc
+
+PySerial tutos: https://www.youtube.com/watch?v=kx4FoOAHG4U&list=PLxob-QD2IjXilpTWXe7eJCI-G-cUbtepE
+
+Python and Arduino communication : https://www.youtube.com/watch?v=OleCp_TAXC8
+
+Arduino serial communication: https://www.youtube.com/watch?v=KYWCkdrCUKg
+
+Numpy tuto for beginners : https://www.youtube.com/watch?v=QUT1VHiLmmI
 
 _____________
       
